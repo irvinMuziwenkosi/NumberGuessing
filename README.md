@@ -1,3 +1,3 @@
-#This is a placeholder project
+# This is a placeholder project
 
-##Not responsive, but fun
+## Not responsive, but fun
